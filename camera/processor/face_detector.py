@@ -50,5 +50,5 @@ class FaceDetector(object):
         # 取得した座標情報を元に、cv2.rectangleを使ってframe上に
         # 顔の位置を描画する
 
-        # frameを戻り値として返す
+        #frameを戻り値として返す
         return frame
